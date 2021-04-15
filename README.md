@@ -1,4 +1,6 @@
 
+![img](https://i.imgur.com/QYvVe1e.png)
+![img](https://i.imgur.com/eJU9UyN.png)
 
 I used JavaScript for all of the logic of the accordion - and I did that code (mobile code) first.
 
@@ -6,7 +8,7 @@ Then, I took on adding the desktop coding for the tabs. I debated if I wanted to
 
 I decided to use querySelectors
 
-I followed all the rules: no plugins or frameworks. 
+I followed all the rules: no plugins or frameworks.
 
 ## Rules
 * It's very important to match the design. This component came out of a project and is indicative of the type of work you'll encounter.
